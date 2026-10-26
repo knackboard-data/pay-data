@@ -4,18 +4,18 @@ Listed hourly pay for remote expert roles on DataAnnotation, Handshake AI, Merco
 
 **Listed rates as posted, not typical earnings or guaranteed income.** Each platform decides who qualifies, which projects are open, how many hours are offered, and final pay. Follow the source link for the current listing.
 
-Last checked: October 26, 2026. The history starts October 26, 2026, so each chart has one point for now. Each later sweep adds a point.
+Last checked: October 26, 2026. The history starts October 26, 2026, so each chart has one point for now. A new point is added on the day a listed figure changes.
 
 ## Files
 
 - `pay-tracker.csv`: one row per listing, as posted.
-- `pay-tracker-history.csv`: one row per sweep date, field, and platform, used for the charts.
+- `pay-tracker-history.csv`: one row per date, field, and platform, added only on the day the listed figures for that pair changed (earlier dates kept), used for the charts.
 - `changelog.csv`: listed figures we saw change, dated by the day we noticed, plus rows added to the tracker (old_pay "Not tracked").
 - `charts/*.svg`: one chart per field, generated from `pay-tracker-history.csv`.
 
 ## Charts: listed pay ranges, as posted
 
-Each chart shows, for each platform in alphabetical order, the lowest and highest hourly figure it listed in that field on each sweep date, and how many listings were counted. Platforms are not ranked.
+Each chart shows, for each platform in alphabetical order, the lowest and highest hourly figure it listed in that field on each date shown, and how many listings were counted. A platform appears on a later date only when its figures in that field changed that day. Platforms are not ranked.
 
 ### Accounting and Finance
 
@@ -107,7 +107,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 |---|---|---|---|---|
 | 2026-10-26 | DataAnnotation | 125 | 125 | 2 |
 | 2026-10-26 | Mercor | 60 | 250 | 4 |
-| 2026-10-26 | micro1 | 70 | 285 | 11 |
+| 2026-10-26 | micro1 | 70 | 200 | 9 |
 
 ### Pharmacy
 
@@ -141,7 +141,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 
 ## How listed pay becomes numbers
 
-Every dollar figure in a listing counts toward both its low and its high, "up to" figures included. "Up to $125+/hr" counts as 125 for both, and "$60-$180 / hr" counts as 60 and 180. A trailing "+" is kept as the stated number. Only hourly wording is charted. For one sweep date, field, and platform, `listed_low` is the lowest figure and `listed_high` the highest figure across the rows rechecked that day.
+Every dollar figure in a listing counts toward both its low and its high, "up to" figures included. "Up to $125+/hr" counts as 125 for both, and "$60-$180 / hr" counts as 60 and 180. A trailing "+" is kept as the stated number. Only hourly wording is charted. For one sweep date, field, and platform, `listed_low` is the lowest figure and `listed_high` the highest figure across the rows listed that day (a row whose recheck failed keeps its last listed value).
 
 Rows left out of the charts (still in `pay-tracker.csv`):
 
@@ -164,7 +164,7 @@ Rows left out of the charts (still in `pay-tracker.csv`):
 
 | Column | Meaning |
 |---|---|
-| `sweep_date` | Date (YYYY-MM-DD) of the sweep |
+| `sweep_date` | Date (YYYY-MM-DD) the change was seen |
 | `field` | Field grouping |
 | `platform` | Platform |
 | `listed_low` | Lowest listed hourly figure, US dollars, across that platform's parsed rows in the field that day |
