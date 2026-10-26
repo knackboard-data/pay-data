@@ -10,7 +10,7 @@ Last checked: October 26, 2026. The history starts October 26, 2026, so each cha
 
 - `pay-tracker.csv`: one row per listing, as posted.
 - `pay-tracker-history.csv`: one row per sweep date, field, and platform, used for the charts.
-- `changelog.csv`: listed figures we saw change, dated by the day we noticed.
+- `changelog.csv`: listed figures we saw change, dated by the day we noticed, plus rows added to the tracker (old_pay "Not tracked").
 - `charts/*.svg`: one chart per field, generated from `pay-tracker-history.csv`.
 
 ## Charts: listed pay ranges, as posted
@@ -135,7 +135,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 
 | Sweep date | Platform | Listed low ($/hr) | Listed high ($/hr) | Listings |
 |---|---|---|---|---|
-| 2026-10-26 | DataAnnotation | 150 | 150 | 1 |
+| 2026-10-26 | DataAnnotation | 150 | 150 | 2 |
 | 2026-10-26 | Handshake AI | 75 | 125 | 3 |
 | 2026-10-26 | Mercor | 70 | 250 | 4 |
 
