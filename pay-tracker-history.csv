@@ -24,7 +24,7 @@ sweep_date,field,platform,listed_low,listed_high,listing_count,source_note
 2026-10-26,Law,DataAnnotation,125,125,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
 2026-10-26,Law,Handshake AI,110,150,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
 2026-10-26,Law,Mercor,60,150,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
-2026-10-26,Law,micro1,140,400,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Law,micro1,45,400,9,9 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: jobs.micro1.ai micro1.ai
 2026-10-26,Medicine and Health,DataAnnotation,125,125,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
 2026-10-26,Medicine and Health,Mercor,60,250,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
 2026-10-26,Medicine and Health,micro1,60,200,10,10 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai

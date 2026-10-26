@@ -97,7 +97,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | DataAnnotation | 125 | 125 | 1 |
 | 2026-10-26 | Handshake AI | 110 | 150 | 2 |
 | 2026-10-26 | Mercor | 60 | 150 | 3 |
-| 2026-10-26 | micro1 | 140 | 400 | 3 |
+| 2026-10-26 | micro1 | 45 | 400 | 9 |
 
 ### Medicine and Health
 
