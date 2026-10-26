@@ -107,7 +107,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 |---|---|---|---|---|
 | 2026-10-26 | DataAnnotation | 125 | 125 | 2 |
 | 2026-10-26 | Mercor | 60 | 250 | 4 |
-| 2026-10-26 | micro1 | 70 | 200 | 9 |
+| 2026-10-26 | micro1 | 60 | 200 | 10 |
 
 ### Pharmacy
 
