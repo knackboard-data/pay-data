@@ -74,7 +74,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 |---|---|---|---|---|
 | 2026-10-26 | DataAnnotation | 50 | 50 | 1 |
 | 2026-10-26 | Handshake AI | 17 | 30 | 2 |
-| 2026-10-26 | Mercor | 50 | 60 | 1 |
+| 2026-10-26 | Mercor | 40 | 70 | 1 |
 | 2026-10-26 | micro1 | 10 | 30 | 4 |
 
 ### Languages
