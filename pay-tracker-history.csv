@@ -1,0 +1,39 @@
+sweep_date,field,platform,listed_low,listed_high,listing_count,source_note
+2026-10-26,Accounting and Finance,DataAnnotation,125,125,7,7 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,Accounting and Finance,Handshake AI,80,175,6,6 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Accounting and Finance,Mercor,60,180,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,Accounting and Finance,micro1,30,350,8,8 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,All fields (platform FAQ),DataAnnotation,25,150,5,5 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,All fields (platform FAQ),Handshake AI,17,150,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Consulting and Business,micro1,150,350,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Education,Handshake AI,75,150,7,7 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Education,Mercor,30,85,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,Education,micro1,15,140,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Engineering,DataAnnotation,125,125,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,Engineering,Handshake AI,75,125,10,10 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Engineering,Mercor,50,125,6,6 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com; 1 per-task or unparsed row skipped
+2026-10-26,Engineering,micro1,40,150,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,General,DataAnnotation,50,50,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,General,Handshake AI,17,30,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,General,Mercor,50,60,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,General,micro1,10,30,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Languages,DataAnnotation,40,40,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,Languages,Handshake AI,25,80,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Languages,Mercor,15,65,5,5 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,Languages,micro1,8,98,5,5 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Law,DataAnnotation,125,125,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,Law,Handshake AI,110,150,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Law,Mercor,60,150,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,Law,micro1,140,400,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Medicine and Health,DataAnnotation,125,125,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,Medicine and Health,Mercor,60,250,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,Medicine and Health,micro1,70,285,11,11 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Pharmacy,Handshake AI,100,130,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Pharmacy,Mercor,60,210,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,Science and Research,DataAnnotation,125,125,7,7 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,Science and Research,Handshake AI,48,150,6,6 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Science and Research,Mercor,45,120,7,7 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
+2026-10-26,Science and Research,micro1,30,200,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: micro1.ai
+2026-10-26,Software and Data,DataAnnotation,150,150,1,1 hourly row in pay-tracker.csv rechecked 2026-10-26; source: dataannotation.tech
+2026-10-26,Software and Data,Handshake AI,75,125,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: joinhandshake.com
+2026-10-26,Software and Data,Mercor,70,250,4,4 hourly rows in pay-tracker.csv rechecked 2026-10-26; source: work.mercor.com
