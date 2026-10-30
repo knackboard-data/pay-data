@@ -4,7 +4,7 @@ Listed hourly pay for remote expert roles on DataAnnotation, Handshake AI, Merco
 
 **Listed rates as posted, not typical earnings or guaranteed income.** Each platform decides who qualifies, which projects are open, how many hours are offered, and final pay. Follow the source link for the current listing.
 
-Last checked: October 26, 2026. The history starts October 26, 2026, so each chart has one point for now. A new point is added on the day a listed figure changes.
+Last checked: October 30, 2026. The history starts October 26, 2026 and has 2 dated points so far, one for each day a listed figure changed.
 
 ## Files
 
@@ -54,6 +54,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Handshake AI | 75 | 150 | 7 |
 | 2026-10-26 | Mercor | 30 | 85 | 1 |
 | 2026-10-26 | micro1 | 15 | 140 | 3 |
+| 2026-10-30 | micro1 | 15 | 140 | 2 |
 
 ### Engineering
 
@@ -87,6 +88,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Handshake AI | 25 | 80 | 4 |
 | 2026-10-26 | Mercor | 15 | 65 | 5 |
 | 2026-10-26 | micro1 | 8 | 98 | 5 |
+| 2026-10-30 | micro1 | 8 | 30 | 2 |
 
 ### Law
 
@@ -108,6 +110,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | DataAnnotation | 125 | 125 | 2 |
 | 2026-10-26 | Mercor | 60 | 250 | 4 |
 | 2026-10-26 | micro1 | 60 | 200 | 10 |
+| 2026-10-30 | micro1 | 60 | 200 | 9 |
 
 ### Pharmacy
 
