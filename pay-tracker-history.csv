@@ -40,3 +40,8 @@ sweep_date,field,platform,listed_low,listed_high,listing_count,source_note
 2026-10-30,Education,micro1,15,140,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-30; source: micro1.ai
 2026-10-30,Languages,micro1,8,30,2,2 hourly rows in pay-tracker.csv rechecked 2026-10-30; source: micro1.ai
 2026-10-30,Medicine and Health,micro1,60,200,9,9 hourly rows in pay-tracker.csv rechecked 2026-10-30; source: micro1.ai
+2026-10-31,Accounting and Finance,micro1,50,350,5,5 hourly rows in pay-tracker.csv rechecked 2026-10-31; source: micro1.ai
+2026-10-31,Education,micro1,15,40,1,1 hourly row in pay-tracker.csv rechecked 2026-10-31; source: micro1.ai
+2026-10-31,Law,micro1,45,400,8,8 hourly rows in pay-tracker.csv rechecked 2026-10-31; source: jobs.micro1.ai micro1.ai
+2026-10-31,Medicine and Health,micro1,60,120,8,8 hourly rows in pay-tracker.csv rechecked 2026-10-31; source: micro1.ai
+2026-10-31,Software and Data,Handshake AI,75,150,3,3 hourly rows in pay-tracker.csv rechecked 2026-10-31; source: joinhandshake.com

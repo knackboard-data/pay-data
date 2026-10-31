@@ -4,7 +4,7 @@ Listed hourly pay for remote expert roles on DataAnnotation, Handshake AI, Merco
 
 **Listed rates as posted, not typical earnings or guaranteed income.** Each platform decides who qualifies, which projects are open, how many hours are offered, and final pay. Follow the source link for the current listing.
 
-Last checked: October 30, 2026. The history starts October 26, 2026 and has 2 dated points so far, one for each day a listed figure changed.
+Last checked: October 31, 2026. The history starts October 26, 2026 and has 3 dated points so far, one for each day a listed figure changed.
 
 ## Files
 
@@ -27,6 +27,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Handshake AI | 80 | 175 | 6 |
 | 2026-10-26 | Mercor | 60 | 180 | 4 |
 | 2026-10-26 | micro1 | 30 | 350 | 8 |
+| 2026-10-31 | micro1 | 50 | 350 | 5 |
 
 ### All fields (platform FAQ)
 
@@ -55,6 +56,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Mercor | 30 | 85 | 1 |
 | 2026-10-26 | micro1 | 15 | 140 | 3 |
 | 2026-10-30 | micro1 | 15 | 140 | 2 |
+| 2026-10-31 | micro1 | 15 | 40 | 1 |
 
 ### Engineering
 
@@ -100,6 +102,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Handshake AI | 110 | 150 | 2 |
 | 2026-10-26 | Mercor | 60 | 150 | 3 |
 | 2026-10-26 | micro1 | 45 | 400 | 9 |
+| 2026-10-31 | micro1 | 45 | 400 | 8 |
 
 ### Medicine and Health
 
@@ -111,6 +114,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Mercor | 60 | 250 | 4 |
 | 2026-10-26 | micro1 | 60 | 200 | 10 |
 | 2026-10-30 | micro1 | 60 | 200 | 9 |
+| 2026-10-31 | micro1 | 60 | 120 | 8 |
 
 ### Pharmacy
 
@@ -141,6 +145,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | DataAnnotation | 150 | 150 | 2 |
 | 2026-10-26 | Handshake AI | 75 | 125 | 3 |
 | 2026-10-26 | Mercor | 70 | 250 | 4 |
+| 2026-10-31 | Handshake AI | 75 | 150 | 3 |
 
 ## How listed pay becomes numbers
 
