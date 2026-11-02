@@ -4,7 +4,7 @@ Listed hourly pay for remote expert roles on DataAnnotation, Handshake AI, Merco
 
 **Listed rates as posted, not typical earnings or guaranteed income.** Each platform decides who qualifies, which projects are open, how many hours are offered, and final pay. Follow the source link for the current listing.
 
-Last checked: November 1, 2026. The history starts October 26, 2026 and has 4 dated points so far, one for each day a listed figure changed.
+Last checked: November 2, 2026. The history starts October 26, 2026 and has 5 dated points so far, one for each day a listed figure changed.
 
 ## Files
 
@@ -28,6 +28,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Mercor | 60 | 180 | 4 |
 | 2026-10-26 | micro1 | 30 | 350 | 8 |
 | 2026-10-31 | micro1 | 50 | 350 | 5 |
+| 2026-11-02 | micro1 | 40 | 350 | 15 |
 
 ### All fields (platform FAQ)
 
@@ -81,6 +82,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Mercor | 40 | 70 | 1 |
 | 2026-10-26 | micro1 | 10 | 30 | 4 |
 | 2026-11-01 | micro1 | 15 | 30 | 2 |
+| 2026-11-02 | micro1 | 15 | 30 | 1 |
 
 ### Languages
 
@@ -117,6 +119,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | micro1 | 60 | 200 | 10 |
 | 2026-10-30 | micro1 | 60 | 200 | 9 |
 | 2026-10-31 | micro1 | 60 | 120 | 8 |
+| 2026-11-02 | micro1 | 60 | 125 | 12 |
 
 ### Pharmacy
 
