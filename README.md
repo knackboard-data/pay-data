@@ -82,6 +82,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Mercor | 40 | 70 | 1 |
 | 2026-10-26 | micro1 | 10 | 30 | 4 |
 | 2026-11-01 | micro1 | 15 | 30 | 2 |
+| 2026-11-02 | Mercor | 40 | 80 | 2 |
 | 2026-11-02 | micro1 | 15 | 30 | 1 |
 
 ### Languages
