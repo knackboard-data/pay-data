@@ -119,7 +119,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | micro1 | 60 | 200 | 10 |
 | 2026-10-30 | micro1 | 60 | 200 | 9 |
 | 2026-10-31 | micro1 | 60 | 120 | 8 |
-| 2026-11-02 | micro1 | 60 | 125 | 12 |
+| 2026-11-02 | micro1 | 20 | 125 | 20 |
 
 ### Pharmacy
 
