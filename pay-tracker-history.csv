@@ -48,6 +48,6 @@ sweep_date,field,platform,listed_low,listed_high,listing_count,source_note
 2026-11-01,Engineering,micro1,40,120,3,3 hourly rows in pay-tracker.csv rechecked 2026-11-01; source: micro1.ai
 2026-11-01,General,micro1,15,30,2,2 hourly rows in pay-tracker.csv rechecked 2026-11-01; source: micro1.ai
 2026-11-02,Accounting and Finance,micro1,40,350,15,15 hourly rows in pay-tracker.csv rechecked 2026-11-02; source: micro1.ai
-2026-11-02,General,Mercor,40,80,2,"2 hourly rows in pay-tracker.csv; Generalist (Must own MacBook) listed again 2026-11-02; source: work.mercor.com"
+2026-11-02,General,Mercor,40,80,2,2 hourly rows in pay-tracker.csv; Generalist (Must own MacBook) listed again 2026-11-02; source: work.mercor.com
 2026-11-02,General,micro1,15,30,1,1 hourly row in pay-tracker.csv rechecked 2026-11-02; source: micro1.ai
 2026-11-02,Medicine and Health,micro1,20,125,20,20 hourly rows in pay-tracker.csv rechecked 2026-11-02; source: micro1.ai
