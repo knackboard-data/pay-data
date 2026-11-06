@@ -4,7 +4,7 @@ Listed hourly pay for remote expert roles on DataAnnotation, Handshake AI, Merco
 
 **Listed rates as posted, not typical earnings or guaranteed income.** Each platform decides who qualifies, which projects are open, how many hours are offered, and final pay. Follow the source link for the current listing.
 
-Last checked: November 3, 2026. The history starts October 26, 2026 and has 6 dated points so far, one for each day a listed figure changed.
+Last checked: November 6, 2026. The history starts October 26, 2026 and has 7 dated points so far, one for each day a listed figure changed.
 
 ## Files
 
@@ -85,6 +85,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-11-01 | micro1 | 15 | 30 | 2 |
 | 2026-11-02 | Mercor | 40 | 80 | 2 |
 | 2026-11-02 | micro1 | 15 | 30 | 1 |
+| 2026-11-06 | micro1 | 10 | 30 | 2 |
 
 ### Languages
 
@@ -97,6 +98,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Mercor | 15 | 65 | 5 |
 | 2026-10-26 | micro1 | 8 | 98 | 5 |
 | 2026-10-30 | micro1 | 8 | 30 | 2 |
+| 2026-11-06 | Mercor | 15 | 65 | 4 |
 
 ### Law
 
@@ -122,6 +124,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-30 | micro1 | 60 | 200 | 9 |
 | 2026-10-31 | micro1 | 60 | 120 | 8 |
 | 2026-11-02 | micro1 | 20 | 125 | 20 |
+| 2026-11-06 | micro1 | 30 | 125 | 20 |
 
 ### Pharmacy
 
@@ -131,6 +134,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 |---|---|---|---|---|
 | 2026-10-26 | Handshake AI | 100 | 130 | 2 |
 | 2026-10-26 | Mercor | 60 | 210 | 4 |
+| 2026-11-06 | Mercor | 35 | 210 | 5 |
 
 ### Science and Research
 
@@ -142,6 +146,7 @@ Each chart shows, for each platform in alphabetical order, the lowest and highes
 | 2026-10-26 | Handshake AI | 48 | 150 | 6 |
 | 2026-10-26 | Mercor | 45 | 120 | 7 |
 | 2026-10-26 | micro1 | 30 | 200 | 4 |
+| 2026-11-06 | Mercor | 45 | 120 | 5 |
 
 ### Software and Data
 
