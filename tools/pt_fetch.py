@@ -80,6 +80,7 @@ def mercor(url):
     # A closed listing either shows only the "<title> is no longer accepting applications" banner (gone), or
     # Mercor shows a replacement listing on the same URL, which is tracked as displayed (as on Oct 30, 2026).
     # So the row is gone only when no listing rate is shown.
+    if 'is no longer accepting applications' in text_of(s): return None  # closed banner wins over the replacement network shown on the same URL (Nov 20, 2026)
     pay = None
     for h3 in soup.find_all('h3'):
         x = re.sub(r'\s+', ' ', h3.get_text(' ')).strip()
